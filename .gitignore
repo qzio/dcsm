@@ -1,0 +1,4 @@
+dcsm
+dcsm_*
+services/
+docker-compose.yml
